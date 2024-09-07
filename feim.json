@@ -34,7 +34,7 @@
 			"api": "csp_Config",
 			"searchable": 0,
 			"changeable": 0,
-			"ext":"./lib/tokenm.json",
+			"ext":"https://github.dev/123mch/yingshi/blob/main/lib/tokenm.json",
 			"style": {
 				"type": "rect",
 				"ratio": 1.5
@@ -255,7 +255,7 @@
                 ]
             }
         },        
-{"key":"Wogg","name":"PG玩偶","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
+{"key":"Wogg","name":"PG玩偶","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://github.dev/123mch/yingshi/blob/main/lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$https://github.dev/123mch/yingshi/blob/main/lib/wogg.json$$$WOGG"},
         {
       "key": "玩偶",
       "name": "👽饭玩偶┃4K弹幕",
@@ -281,7 +281,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 30,
-            "ext": "./lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./lib/wogg.json"
+            "ext": "https://github.dev/123mch/yingshi/blob/main/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$https://github.dev/123mch/yingshi/blob/main/lib/wogg.json"
         },
         {
             "key": "玩偶表哥弹幕",
@@ -308,7 +308,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"
+            "ext": "https://github.dev/123mch/yingshi/blob/main/lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$https://github.dev/123mch/yingshi/blob/main/lib/wogg.json"
         },
         {
             "key": "csp_Hdhive",
