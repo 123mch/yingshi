@@ -255,7 +255,7 @@
                 ]
             }
         }, 
-{"key": "py_emby", "name": "🍏 MisakaF┃Emby","type": 3, "api":"./lib/emby_proxy.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "https://emby2.misakaf.org:443","username":"schfnrj","password":"a1995557","thread": 0,"proxy":""},"changeable": 1},
+{"key": "py_emby", "name": "🍏 MisakaF┃Emby","type": 3, "api":"./lib/emby_proxy.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "https://cherrytv.one:443","username":"ghost","password":"ghost","thread": 0,"proxy":""},"changeable": 1},
 {"key":"Wogg","name":"PG玩偶","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
         {
       "key": "玩偶",
