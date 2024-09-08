@@ -39,26 +39,7 @@
 				"type": "rect",
 				"ratio": 1.5
 			}
-		},
-	    {
-      "key": "Wexconfig",
-      "name": "🐮通用类型┃配置中心🐮",
-      "type": 3,
-      "api": "csp_Wexconfig",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-"jar": "./jar/wex.txt"		    
-    },
-	    {
-      "key": "Wexemby",
-      "name": "🀄️emby┃4K🀄️",
-      "type": 3,
-      "api": "csp_Wexemby",
-      "searchable": 1,
-      "changeable": 1,
-	"jar": "./jar/wex.txt"	
-    },
+		},	    
         {
             "key": "賤賤",
             "name": "荐片",
@@ -274,7 +255,6 @@
                 ]
             }
         }, 
-{"key": "py_emby", "name": "🍏 MisakaF┃Emby","type": 3, "api":"./lib/emby_proxy.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "https://cherrytv.one:443","username":"ghost","password":"ghost","thread": 0,"proxy":""},"changeable": 1},
 {"key":"Wogg","name":"PG玩偶","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"},
         {
       "key": "玩偶",
